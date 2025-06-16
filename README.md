@@ -19,5 +19,3 @@ This type of analysis can be incredibly valuable for music producers, artists, a
 To get started, we need a dataset — and I’ve got just the one. It contains **227 music tracks**, each with detailed features like tempo, energy, loudness, and more. It also includes metadata such as the track name, artist, album, and release date.
 
 We’ll walk through how to clean the data, engineer features, train a machine learning model, and evaluate its performance — all using **Python**.
-
-So if you're ready to dive into music data and build your own popularity predictor, let’s get started!
